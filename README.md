@@ -1,4 +1,4 @@
-## hey there ✌️ I'm 20 years old brazillian entry Develloper, looking for new directions in the Tecnollogy area beyond the <\code>.
+## hey there ✌️ I'm a 20 years old brazillian Junior Develloper, looking for new directions in the Tecnollogy area beyond the <\code>.
 
 <div>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
